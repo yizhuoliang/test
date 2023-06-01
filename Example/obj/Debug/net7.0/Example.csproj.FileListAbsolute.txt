@@ -1,0 +1,15 @@
+/Users/coulson/test/Example/bin/Debug/net7.0/Example
+/Users/coulson/test/Example/bin/Debug/net7.0/Example.deps.json
+/Users/coulson/test/Example/bin/Debug/net7.0/Example.runtimeconfig.json
+/Users/coulson/test/Example/bin/Debug/net7.0/Example.dll
+/Users/coulson/test/Example/bin/Debug/net7.0/Example.pdb
+/Users/coulson/test/Example/obj/Debug/net7.0/Example.csproj.AssemblyReference.cache
+/Users/coulson/test/Example/obj/Debug/net7.0/Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coulson/test/Example/obj/Debug/net7.0/Example.AssemblyInfoInputs.cache
+/Users/coulson/test/Example/obj/Debug/net7.0/Example.AssemblyInfo.cs
+/Users/coulson/test/Example/obj/Debug/net7.0/Example.csproj.CoreCompileInputs.cache
+/Users/coulson/test/Example/obj/Debug/net7.0/Example.dll
+/Users/coulson/test/Example/obj/Debug/net7.0/refint/Example.dll
+/Users/coulson/test/Example/obj/Debug/net7.0/Example.pdb
+/Users/coulson/test/Example/obj/Debug/net7.0/Example.genruntimeconfig.cache
+/Users/coulson/test/Example/obj/Debug/net7.0/ref/Example.dll
